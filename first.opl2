@@ -1,0 +1,13 @@
+OPL2 60
+' Very simple test OPL2 script
+r 20 01
+r 40 10
+r 60 f0
+r 80 77
+r a0 98
+r 23 01
+r 43 00
+r 63 f0
+r 83 77
+r b0 31
+w 120
